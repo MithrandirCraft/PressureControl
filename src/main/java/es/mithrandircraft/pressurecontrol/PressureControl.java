@@ -30,7 +30,6 @@ public class PressureControl extends JavaPlugin implements Listener {
         //Check if the event occurred in one of the configured worlds:
         for(int i = 0; i < getConfig().getStringList("Worlds").size(); i++)
         {
-            getServer().getPlayer("__Mithrandir__").sendMessage(getConfig().getStringList("Worlds").get(i) + "  " + ev.getBlock().getWorld().getName());
             if(getConfig().getStringList("Worlds").get(i).equals(ev.getBlock().getWorld().getName()))
             {
                 //Check if it's a MOB or ANIMAL pressing a STONE plate:

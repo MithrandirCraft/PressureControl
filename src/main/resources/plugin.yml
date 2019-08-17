@@ -1,0 +1,7 @@
+name: PressureControl
+version: ${project.version}
+main: es.mithrandircraft.pressurecontrol.PressureControl
+api-version: 1.13
+authors: [__Mithrandir__]
+description: Stops mobs and animals from pressing stone pressure plates
+website: www.mithrandircraft.es
