@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PressureControl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PressureControl_jar</output-path>
+    <root id="archive" name="PressureControl.jar">
+      <element id="module-output" name="PressureControl" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/spigot-api-1.13.2-R0.1-20190423.030901-214.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

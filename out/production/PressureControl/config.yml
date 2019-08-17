@@ -1,0 +1,6 @@
+#How strong is the bounce off on mobs when they attempt at pressing a stone plate, values above 1 or below 0 may cause exaggerated or unwanted effects.
+BounceOffIntensity: 0.5
+#List of worlds where this plugin is effective:
+Worlds:
+  - exampleworld1
+  - exampleworld2
